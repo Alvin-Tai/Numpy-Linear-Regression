@@ -39,6 +39,7 @@ python main.py
 
 
 ## 核心公式
+```text
 H(x) = w^T * x + b
 
 Loss(w,b) = (1 / 2m) * Σ(h(x_i) - y_i)^2
@@ -46,7 +47,7 @@ Loss(w,b) = (1 / 2m) * Σ(h(x_i) - y_i)^2
 GD
 w := w - α * (1/m) * Σ(h(x_i) - y_i) * x_i
 b := b - α * (1/m) * Σ(h(x_i) - y_i)
-
+```
 
 ## 作者
 Alvin-Tai from BUCT
