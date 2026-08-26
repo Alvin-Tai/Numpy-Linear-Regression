@@ -3,12 +3,15 @@
 用 NumPy 实现多元线性回归（Batch Gradient Descent），包含完整的训练、可视化与评估流程。
 
 ## 项目结构
+
+```text
 numpy-linear-regression/
 ├── data/               # 数据集
 ├── src/                # 源代码
 ├── figures/            # 可视化结果
 ├── main.py             # 入口文件
 └── requirements.txt    # 依赖
+```
 
 ## 环境要求
 
@@ -21,7 +24,7 @@ numpy-linear-regression/
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## 运行
 python main.py
