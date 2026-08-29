@@ -15,7 +15,7 @@ numpy-linear-regression/
 
 ## 环境要求
 
-- Python >= 3.8
+- Python >= 3.10
 - NumPy
 - Matplotlib
 - Pandas
